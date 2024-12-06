@@ -33,4 +33,3 @@ It employs advanced computer vision and machine learning algorithms to detect an
 ## Setup and Installation
 ### Prerequisites
 - Python 3.8 or higher
-- Required Python libraries (can be installed via `requirements.txt`):
