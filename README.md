@@ -22,7 +22,7 @@ It employs advanced computer vision and machine learning algorithms to detect an
 
 ## How It Works
 1. **Face Detection**:
-   - The system detects faces using advanced algorithms (e.g., HOG or CNN models).
+   - The system detects faces using advanced algorithms.
 2. **Face Recognition**:
    - Extracts unique facial embeddings for each detected face.
    - Matches embeddings with stored data to identify individuals.
